@@ -1,0 +1,13 @@
+.fa-times{
+	color: brown;
+}
+
+.fa-times:hover{
+	cursor: pointer;
+	color:red;
+}
+
+.fa-pencil-square-o:hover{
+	cursor: pointer;
+	color:black;
+}
